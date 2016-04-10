@@ -2,7 +2,7 @@
 Android app to show popular movies (Created for Udacity android nanodegree)
 
 ### API Key
-Replace <API_KEY> on MainActivityFragment line 167 to your themoviedb.org API key before running this app. You can get one at https://www.themoviedb.org
+Replace <API_KEY> on FetchMoviesTask line 66 to your [themoviedb.org][1] API key before running this app. You can get one at [The Movie DB][1].
 
 ### Functionalities
  1. Present the user with a grid arrangement of movie posters upon launch.
@@ -16,7 +16,7 @@ Replace <API_KEY> on MainActivityFragment line 167 to your themoviedb.org API ke
        * release date
 
 ### Libraries
-  * Uses Picasso to load images to UI
+  * Uses [Picasso][2] to load images to UI
 
 ### Screenshots
 
@@ -24,3 +24,8 @@ Replace <API_KEY> on MainActivityFragment line 167 to your themoviedb.org API ke
 <img src="https://github.com/biamacedo/popular-movies-android/blob/master/screenshots/screenshot2.png" width="200">
 <img src="https://github.com/biamacedo/popular-movies-android/blob/master/screenshots/screenshot3.png" width="200">
 <img src="https://github.com/biamacedo/popular-movies-android/blob/master/screenshots/screenshot4.png" width="200">
+
+
+[1]: https://www.themoviedb.org
+
+[2]: http://square.github.io/picasso/
