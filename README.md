@@ -2,7 +2,7 @@
 Android app to show popular movies (Created for Udacity android nanodegree)
 
 ### API Key
-Replace <API_KEY> on FetchMoviesTask line 66 to your [themoviedb.org][1] API key before running this app. You can get one at [The Movie DB][1].
+Replace "<API_KEY>" on FetchMoviesTask line 66 to your [themoviedb.org][1] API key before running this app. You can get one at [The Movie DB][1].
 
 ### Functionalities
  1. Present the user with a grid arrangement of movie posters upon launch.
