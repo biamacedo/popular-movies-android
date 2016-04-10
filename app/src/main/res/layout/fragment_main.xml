@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.macedo.popularmovies.MainActivityFragment"
+    tools:showIn="@layout/activity_main">
+
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gridView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:numColumns="auto_fit"
+        android:columnWidth="180dp"
+        android:stretchMode="columnWidth"
+        android:layout_centerInParent="true"
+        android:horizontalSpacing="0dp"
+        android:verticalSpacing="0dp" />
+</RelativeLayout>
