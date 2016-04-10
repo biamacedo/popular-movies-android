@@ -6,5 +6,7 @@ Replace <API_KEY> on MainActivityFragment line 167 to your themoviedb.org API ke
 
 ### Screenshots
 
-*To be added.*
-
+<img src="https://github.com/biamacedo/popular-movies-android/blob/master/screenshots/screenshot1.png" width="200">
+<img src="https://github.com/biamacedo/popular-movies-android/blob/master/screenshots/screenshot2.png" width="200">
+<img src="https://github.com/biamacedo/popular-movies-android/blob/master/screenshots/screenshot3.png" width="200">
+<img src="https://github.com/biamacedo/popular-movies-android/blob/master/screenshots/screenshot4.png" width="200">
